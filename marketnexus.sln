@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marketnexus", "marketnexus.csproj", "{D51D1755-76B4-4AA3-99A3-BAEC3CE6FD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51D1755-76B4-4AA3-99A3-BAEC3CE6FD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51D1755-76B4-4AA3-99A3-BAEC3CE6FD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51D1755-76B4-4AA3-99A3-BAEC3CE6FD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51D1755-76B4-4AA3-99A3-BAEC3CE6FD12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F5D8E8-B20D-4545-B75A-1FAE5B2CC0B0}
+	EndGlobalSection
+EndGlobal
